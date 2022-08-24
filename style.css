@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	font-size: 30px;
+}
+
+a:hover{
+	color: darkred;
+	cursor: pointer;
+}
+
+ul{
+	text-align: center;
+	margin-top: 18px;
+}
+
+
+li{
+	list-style: none;
+	display: inline-block;
+	margin-left: 8px;
+	margin-right: 8px;
+	color: blue;
+	
+}
